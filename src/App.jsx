@@ -1,5 +1,6 @@
 
 import Header from "./componentes/Header";
+import Slidebar from "./componentes/Slidebar";
 
 function App(){
   return(
@@ -7,6 +8,7 @@ function App(){
      
 
       <Header />
+      <Slidebar />
     </div>
   )
 }
